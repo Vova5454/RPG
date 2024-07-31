@@ -1,0 +1,8 @@
+"""Game constants."""
+WIDTH = 900
+HEIGHT = 600
+BG_COLOR = (35, 55, 108)
+TILE_SIZE = 32
+PLAYER_LAYER = 2
+GROUND_LAYER = 1
+TEXT_LAYER = 3
